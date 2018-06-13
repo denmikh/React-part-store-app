@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import Article from './Article'
 
-
 export default class ArcticleList extends Component {
     render() {
         const articleElements = this.props.articles.map((articles) =>
