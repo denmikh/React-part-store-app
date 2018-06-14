@@ -18,7 +18,7 @@ export default class Header extends Component {
 						<li><a href="kontakty.php">Обратная связь</a></li>
 					</ul>
 				</div>
-				<div id="reg_auth">
+				{/* <div id="reg_auth">
 					<a href="" data-toggle="modal" data-target="#modal_auth" title="Войти в кабинет пользователя">
 						<div className="btn">
 							Войти
@@ -29,7 +29,7 @@ export default class Header extends Component {
 							Регистрация
 						</div>
 					</a>
-				</div>
+				</div> */}
 			</div>
 		</nav>
 	</header>
